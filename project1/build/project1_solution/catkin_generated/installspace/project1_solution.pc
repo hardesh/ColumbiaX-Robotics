@@ -1,0 +1,8 @@
+prefix=/home/ccc_v1_w_NmY1N_85909/asn28980_1/asn28981_1/work/catkin_ws/install
+
+Name: project1_solution
+Description: Description of project1_solution
+Version: 0.0.0
+Cflags: -I/home/ccc_v1_w_NmY1N_85909/asn28980_1/asn28981_1/work/catkin_ws/install/include
+Libs: -L/home/ccc_v1_w_NmY1N_85909/asn28980_1/asn28981_1/work/catkin_ws/install/lib 
+Requires: rospy message_runtime

@@ -1,0 +1,2 @@
+project1_solution:two_int_talker
+-DCATKIN_DEVEL_PREFIX=/home/harshal/project1/devel -DCMAKE_INSTALL_PREFIX=/home/harshal/project1/install -G Unix Makefiles
