@@ -1,0 +1,8 @@
+prefix=/home/ccc_v1_w_NmY1N_85909/asn28982_2/asn28983_1/work/catkin_ws/devel
+
+Name: project2_solution
+Description: Description of project2_solution
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ccc_v1_w_NmY1N_85909/asn28982_2/asn28983_1/work/catkin_ws/devel/lib 
+Requires: 

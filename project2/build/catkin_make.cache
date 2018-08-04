@@ -1,0 +1,2 @@
+marker_publisher:project2_solution
+-DCATKIN_DEVEL_PREFIX=/home/ccc_v1_w_NmY1N_85909/asn28982_2/asn28983_1/work/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ccc_v1_w_NmY1N_85909/asn28982_2/asn28983_1/work/catkin_ws/install -G Unix Makefiles
