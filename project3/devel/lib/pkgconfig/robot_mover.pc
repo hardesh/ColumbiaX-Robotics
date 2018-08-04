@@ -1,0 +1,8 @@
+prefix=/home/harshal/project3/devel
+
+Name: robot_mover
+Description: Description of robot_mover
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/harshal/project3/devel/lib 
+Requires: 

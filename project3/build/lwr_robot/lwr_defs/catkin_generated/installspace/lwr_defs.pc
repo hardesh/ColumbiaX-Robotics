@@ -1,0 +1,8 @@
+prefix=/home/harshal/project3/install
+
+Name: lwr_defs
+Description: Description of lwr_defs
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/harshal/project3/install/lib 
+Requires: xacro
